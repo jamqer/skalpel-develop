@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geece</string>
+    <!-- LOGIN -->
+    <string name="creditals_login">login</string>
+    <string name="creditals_password">password</string>
+    <string name="activity_login_sign_in">sign in</string>
+</resources>
